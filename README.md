@@ -1,4 +1,4 @@
-Machine Learning Beginner
+Machine Learning Study
 
 
 	1. 데이터시각화(1)	

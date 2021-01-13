@@ -8,4 +8,5 @@ Machine Learning Study
 	5. 다중선형회귀분석
 	6. 의사결정트리
 	7. 랜덤포레스트
+	8. 
 	

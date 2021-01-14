@@ -9,4 +9,5 @@ Machine Learning Study
 	6. 의사결정트리
 	7. 랜덤포레스트
 	8. 다층신경망
+	9. Support Vector Machine
 	

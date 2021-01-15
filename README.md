@@ -10,4 +10,5 @@ Machine Learning Study
 	7. 랜덤포레스트
 	8. 다층신경망
 	9. Support Vector Machine
+	10. Naive Bayes
 	

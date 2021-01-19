@@ -11,4 +11,4 @@ Machine Learning Study
 	8. 다층신경망
 	9. Support Vector Machine
 	10. Naive Bayes
-	11.
+	11. 영문 데이터 텍스트 분석

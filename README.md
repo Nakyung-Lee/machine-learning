@@ -13,3 +13,7 @@ Machine Learning Study
 	10. Naive Bayes
 	11. 영문 데이터 텍스트 분석
 	12. 한국어 텍스트 데이터 
+
+Deep Larning Study
+
+	1.신경망을 이용한 곤글씨 데이터 분류

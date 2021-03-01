@@ -16,5 +16,5 @@ Machine Learning Study
 
 Deep Larning Study
 
-	1. 신경망을 이용한 곤글씨 데이터 분류
+	1. 신경망을 이용한 손글씨 데이터 분류
 	2. 영화리뷰를 이용한 이진분류
